@@ -36,6 +36,27 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 
 
+5. Resonant System
+
+   Albo, Jeff Leonard C.
+
+   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/fbbd5e90-79cb-4494-9f28-baab503de2f7)
+   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/5f96bed0-6081-47e8-a131-1f1065c5dff8)
+   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3f073027-8116-465a-af0d-70557faf1dce)
+
+
+
+6. Electrical Filter with Multiple Poles
+
+   Albo, Jeff Leonard C.
+
+
+   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/4d73a594-4a48-4750-b4ac-c6469061f37d)
+   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3d3f14bd-affb-4e4a-af87-67b33de9aff3)
+   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/553b98ce-5913-47e1-a92f-2091d7f879ee)
+
+
+   
 7. Plant with Time Delay
 
    Valenton, Jezryl James F.
