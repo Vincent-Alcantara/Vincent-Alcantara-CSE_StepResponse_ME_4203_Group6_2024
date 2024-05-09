@@ -4,9 +4,9 @@ CSE_StepResponse_ME_4203_Group6_2024
 
    Valenton, Jezryl James F.
 
-![Screenshot 2024-05-07 010040](https://github.com/jezryljamesss/CSE_StepResponse_BSME_ME_4203_Group6_2024/assets/161010463/faadd366-cde0-411d-be4a-ee3621410fd4)
-![Screenshot 2024-05-09 232218](https://github.com/jezryljamesss/CSE_StepResponse_BSME_ME_4203_Group6_2024/assets/161010463/05d1f562-b439-4bbe-9be0-cdf54963b7f1)
-![Screenshot 2024-05-07 013107](https://github.com/jezryljamesss/CSE_StepResponse_BSME_ME_4203_Group6_2024/assets/161010463/b943d388-dfe5-49cc-9ad0-664d38910de9)
+![Screenshot 2024-05-07 010040](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/535849a4-7e54-4e77-900a-cde8faa169d8)
+![Screenshot 2024-05-09 232218](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/c7e6d41a-4926-4175-a03c-bad83eaad877)
+![Screenshot 2024-05-07 013107](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/d5468e1d-c527-471f-bbc1-567da7eb150c)
 
 4. First Order System
 
@@ -22,9 +22,10 @@ CSE_StepResponse_ME_4203_Group6_2024
 
    Valenton, Jezryl James F.
    
-![Screenshot 2024-05-07 013834](https://github.com/jezryljamesss/CSE_StepResponse_BSME_ME_4203_Group6_2024/assets/161010463/520513ae-80e2-4bcf-9f78-6fe43733ceae)
-![Screenshot 2024-05-09 232326](https://github.com/jezryljamesss/CSE_StepResponse_BSME_ME_4203_Group6_2024/assets/161010463/ab679303-2429-4ec8-bd1f-17351207fe57)
-![Screenshot 2024-05-07 014144](https://github.com/jezryljamesss/CSE_StepResponse_BSME_ME_4203_Group6_2024/assets/161010463/9f12c208-ff2c-4f7d-995d-1b252c9a8aca)
+![Screenshot 2024-05-07 013834](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/603196d1-30d9-4f80-b747-a28734f04e44)
+![Screenshot 2024-05-09 232326](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/621571eb-d1d8-44af-9b59-c92e6152297e)
+![Screenshot 2024-05-07 014144](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/2fccaf43-6901-4838-9596-06a09f1e0c5c)
+
 
 8. Nonlinear System Approximation
 
