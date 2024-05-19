@@ -12,8 +12,7 @@ Lagaya, Rod Joshua B.
 
 2. Second Order Overdamped System
 
-
- Valenton, Jezryl James F.
+Valenton, Jezryl James F.
 
 ![Screenshot 2024-05-07 010040](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/535849a4-7e54-4e77-900a-cde8faa169d8)
 ![Screenshot 2024-05-09 232218](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/c7e6d41a-4926-4175-a03c-bad83eaad877)
