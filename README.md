@@ -2,12 +2,11 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 1. Second Order Underdamped System
 
-
 Lagaya, Rod Joshua B.
    
- ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/af3d4802-3dc9-46fc-8a74-e3b1caf066db)
- ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/8104ede8-84c2-4b8f-b8d7-81ea69606145)
- ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/9fc6dfa5-fd6b-4577-96c8-4ee82170eaa1)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/af3d4802-3dc9-46fc-8a74-e3b1caf066db)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/8104ede8-84c2-4b8f-b8d7-81ea69606145)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/9fc6dfa5-fd6b-4577-96c8-4ee82170eaa1)
 
 
 2. Second Order Overdamped System
@@ -42,9 +41,9 @@ Alcantara, Vincent L.
 
 Albo, Jeff Leonard C.
 
-   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/fbbd5e90-79cb-4494-9f28-baab503de2f7)
-   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/5f96bed0-6081-47e8-a131-1f1065c5dff8)
-   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3f073027-8116-465a-af0d-70557faf1dce)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/fbbd5e90-79cb-4494-9f28-baab503de2f7)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/5f96bed0-6081-47e8-a131-1f1065c5dff8)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3f073027-8116-465a-af0d-70557faf1dce)
 
 
 
@@ -57,8 +56,7 @@ Albo, Jeff Leonard C.
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3d3f14bd-affb-4e4a-af87-67b33de9aff3)
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/553b98ce-5913-47e1-a92f-2091d7f879ee)
 
-
-   
+  
 7. Plant with Time Delay
 
 Valenton, Jezryl James F.
