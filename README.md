@@ -2,7 +2,8 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 1. Second Order Underdamped System
 
-   Lagaya, Rod Joshua B.
+
+Lagaya, Rod Joshua B.
    
  ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/af3d4802-3dc9-46fc-8a74-e3b1caf066db)
  ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/8104ede8-84c2-4b8f-b8d7-81ea69606145)
@@ -11,7 +12,8 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 2. Second Order Overdamped System
 
-   Valenton, Jezryl James F.
+
+ Valenton, Jezryl James F.
 
 ![Screenshot 2024-05-07 010040](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/535849a4-7e54-4e77-900a-cde8faa169d8)
 ![Screenshot 2024-05-09 232218](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/c7e6d41a-4926-4175-a03c-bad83eaad877)
@@ -19,7 +21,8 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 3. Second Order Critically Damped System
 
-   Lagaya, Rod Joshua B.
+
+Lagaya, Rod Joshua B.
 
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/6e2bc9d7-1d32-4d38-9823-6acb25aa38d1)
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/a3497316-c1e7-4eb6-ac65-cdf85ff0192c)
@@ -38,7 +41,9 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 5. Resonant System
 
-   Albo, Jeff Leonard C.
+ 
+ Albo, Jeff Leonard C.
+
 
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/fbbd5e90-79cb-4494-9f28-baab503de2f7)
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/5f96bed0-6081-47e8-a131-1f1065c5dff8)
@@ -48,7 +53,8 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 6. Electrical Filter with Multiple Poles
 
-   Albo, Jeff Leonard C.
+
+Albo, Jeff Leonard C.
 
 
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/4d73a594-4a48-4750-b4ac-c6469061f37d)
@@ -68,7 +74,7 @@ CSE_StepResponse_ME_4203_Group6_2024
 
 8. Nonlinear System Approximation
 
-    Alcantara, Vincent L.
+ Alcantara, Vincent L.
 
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160556975/3983fcab-ab2d-4201-a94c-df2cae574a70)
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160556975/2e8d817f-ec4d-4bfe-b91f-cd8c9038e4b9)
