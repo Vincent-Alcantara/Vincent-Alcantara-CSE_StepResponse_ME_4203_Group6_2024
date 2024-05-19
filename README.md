@@ -31,7 +31,7 @@ Lagaya, Rod Joshua B.
 
 4. First Order System
 
-    Alcantara, Vincent L.
+Alcantara, Vincent L.
    
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160556975/05392a02-0f11-47d4-8be5-fa4ce5734430)
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160556975/0f042ee6-9bd6-476c-b27f-c436a7b6624a)
@@ -41,9 +41,7 @@ Lagaya, Rod Joshua B.
 
 5. Resonant System
 
- 
- Albo, Jeff Leonard C.
-
+Albo, Jeff Leonard C.
 
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/fbbd5e90-79cb-4494-9f28-baab503de2f7)
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/5f96bed0-6081-47e8-a131-1f1065c5dff8)
@@ -53,19 +51,18 @@ Lagaya, Rod Joshua B.
 
 6. Electrical Filter with Multiple Poles
 
-
 Albo, Jeff Leonard C.
 
 
-   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/4d73a594-4a48-4750-b4ac-c6469061f37d)
-   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3d3f14bd-affb-4e4a-af87-67b33de9aff3)
-   ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/553b98ce-5913-47e1-a92f-2091d7f879ee)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/4d73a594-4a48-4750-b4ac-c6469061f37d)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3d3f14bd-affb-4e4a-af87-67b33de9aff3)
+![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/553b98ce-5913-47e1-a92f-2091d7f879ee)
 
 
    
 7. Plant with Time Delay
 
-   Valenton, Jezryl James F.
+Valenton, Jezryl James F.
    
 ![Screenshot 2024-05-07 013834](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/603196d1-30d9-4f80-b747-a28734f04e44)
 ![Screenshot 2024-05-09 232326](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161010463/621571eb-d1d8-44af-9b59-c92e6152297e)
@@ -74,7 +71,7 @@ Albo, Jeff Leonard C.
 
 8. Nonlinear System Approximation
 
- Alcantara, Vincent L.
+Alcantara, Vincent L.
 
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160556975/3983fcab-ab2d-4201-a94c-df2cae574a70)
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160556975/2e8d817f-ec4d-4bfe-b91f-cd8c9038e4b9)
